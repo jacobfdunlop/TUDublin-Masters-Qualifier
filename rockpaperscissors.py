@@ -1,5 +1,4 @@
-check = bool(False)
-while check == False:
+while True:
     player1 = input("Player 1 - Please enter Rock(r), Paper(p) or Scissors(s). r/p/s: ")
     player2 = input("Player 2 - Please enter Rock(r), Paper(p) or Scissors(s). r/p/s: ")
 
