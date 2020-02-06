@@ -8,7 +8,8 @@ while usernum > 0:
 #   print(binum)
 
     a.append(binum)
-    a.reverse()
+    
+a.reverse()
 
 print(a, "is the binary conversion")
 print(oct(usernum1), "Is the octal conversion")
